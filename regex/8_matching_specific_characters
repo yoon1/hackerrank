@@ -1,0 +1,5 @@
+# [^]
+# not or 문자조합
+# example:
+ - think?
+^\D[^aeiou][^bcDF]\S[^AEIOU][^.,]$
