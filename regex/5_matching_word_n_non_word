@@ -1,0 +1,5 @@
+# \w와 \W
+# \w는 문자인 것, \S는 문자가 아닌 것(각각 1글자)
+# example:
+ - www.hackerrank.com
+\w\w\w\W\w\w\w\w\w\w\w\w\w\w\W\w\w\w
