@@ -1,0 +1,5 @@
+# ()
+# 정규식의 그룹화.
+# example:
+ - okokok! cya
+(ok){3,}
