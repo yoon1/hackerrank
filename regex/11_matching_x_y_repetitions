@@ -1,0 +1,5 @@
+# {x,y}
+# 문자열 갯수 (범위)
+# example:
+ - 3threeormorealphabets.
+^\d{1,2}[a-zA-Z]{3,}\.{0,3}$
