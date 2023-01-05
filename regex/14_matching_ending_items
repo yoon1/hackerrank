@@ -1,0 +1,5 @@
+# $
+# end
+# example:
+ - Kites
+^[a-zA-Z]*[s]$
