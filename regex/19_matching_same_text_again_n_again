@@ -1,0 +1,6 @@
+# \group_number
+# 같은 패턴이 몇번 반복되어야 하는지?
+# (\d)\1: 00, 11, 22, 33, 44, 55, 66, 77, 88, 99,
+# example:
+ - ab #1?AZa$ab #1?AZa$
+^([a-z]\w\s\W\d\D[A-Z][a-zA-Z][aeiouAEIOU]\S)\1$
